@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation straightly commanding that no corne nor other victuall, nor any ordonance, nor furniture for shipping be caried into any of the king of Spaines countries, vpon paine to be punished as in case of treason nor that any of the like kinds by caried out of the realme to other countries without speciall licence vpon sundry great paines.</title>
+            <title>Proclamations. 1591-09-16</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1591</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21877</idno>
+            <idno type="STC">STC 8206</idno>
+            <idno type="STC">ESTC S115446</idno>
+            <idno type="EEBO-CITATION">99850665</idno>
+            <idno type="PROQUEST">99850665</idno>
+            <idno type="VID">15886</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15886)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:69)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation straightly commanding that no corne nor other victuall, nor any ordonance, nor furniture for shipping be caried into any of the king of Spaines countries, vpon paine to be punished as in case of treason nor that any of the like kinds by caried out of the realme to other countries without speciall licence vpon sundry great paines.</title>
+                  <title>Proclamations. 1591-09-16</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1591]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Commerce --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Commerce --  Great Britain --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15886:1"/>
+            <!-- PDF PAGE 18 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">A Proclamation ſtraightly commanding that no Corne nor other Victuall, nor any Ordonance, nor furniture for ſhipping be caried into any of the king of Spaines countries, vpon paine to be puniſhed as in caſe of Treaſon: nor that any of the like kinds be caned out of the Realm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to other Countnes without ſpeciall l<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ence vpon ſundry great p<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as it is manifeſtly ſeene to all the world how it hath pleaſed Almightie God of his moſt ſingular ſauour to haue taken this our Realme into his ſpeciall protection theſe many yeres, euen from the beginning of our reigne, in the midſt of the troubled eſtate of all other kingdome next adioyning, with a ſpecial preſeruation of our owne perſon, as next vnder his Almightineſſe ſupreme Gouernour of the ſame, againſt many malicious and violent attempts: for which cauſe it behooueth vs in very dutie, firſt to continue our owne perpetuall thanks to his goodneſſe for ſo wonderful a fauour, and next to employ all the forces of thoſe his good people which he hath committed to our rule and gouermnent, in defence of themſelues and all our Realms and dominions, againſt ſuch our Potent and violent enemies, as onely for the maintenance of our ſelues and our Subiectes in the profeſſion of his holy Goſpell, haue theſe many yeeres made open warres againſt vs, and conſquently alſo not to be negligent, but to foreſee and pro<g ref="char:EOLhyphen"/>uide by all good, politike, and lawfull meanes, that our ſayde enemies bee not ayded, ſtrengthened, and made more able to encreaſe and extend their forces againſt vs and our people, by ſufferance of prouiſions for the warre, as Corne and other uictu<g ref="char:EOLhyphen"/>all, munition of ſundry kindes of Artillerie, Shot, and Powder, and other furniture for ſhipping to bee caried out of any our domini<g ref="char:EOLhyphen"/>ons, or from other Forreine partes through our narowe Seas by wilfull ſufferance, into Spaine, Portingall, and other dominions of the king of Spaine, who of any Monarch or Prince in Chriſtendome, is at this day the onelyenemie to our ſtate, and hath longeſt continued in mortall warre againſt vs, manifeſtly violating the treaties of Peace, and refuſing to liue in ſuch peace with vs, as hath bene by ſolemne con<g ref="char:EOLhyphen"/>trats and Leagues aunciently eſtabliſhed and continued betwixt our Predeceſſors and his, and ſpecially betwixt the two Princes in this lat<g ref="char:EOLhyphen"/>ter age of moſt noble memorie the Emperor <hi>Charles,</hi> and King <hi>Henrie</hi> the eight our Fathers: notwithſtanding we euen at the beginning of our Raigne, did offer by a noble Ambaſſade to haue faithfully obſerued &amp; confirmed the ſame, which by the ſaid king was refuſed. For this purpoſe coſidering that our Realmes &amp; dominions are plentifully bleſſed by Gods ſingular fauour, with the plentie of Corne and all other Victuall, and with furniture of ſundrie kindes of munition meete for the ſuſtentation and defence of our owne people againſt all Forreine enemies, and alſo for maintenance and furniture of our Armies both by Sea and Land, which we are conſtrained to prepare and hold againſt his violence. And that it is moſt manifeſt that the ſayd king, though he haue abundance of treaſure by his Indian Mines, yet he hath in his owne Coun<g ref="char:EOLhyphen"/>try great wanes of ſuch kind of Victuall, ſpecially of Corne and munition for the warre, and of Mariners and other furniture for his Hauſe, a whereof our dominions haue by Gods goodneſſe, plentie, for the recouerie whereof he is forced to expend great treaſures to get Corne, ſhip, ping, and other neceſſaries for ſhipping, yea Mariners out of the Eaſt countries of Almaine, and hath attempted to corrupt ſome of our Sub<g ref="char:EOLhyphen"/>iects, and ſome Strangers alſo inhabiting our Countries, to procure the conueiance of ſuch kindes of his wants, either directly by ſtealth to knowne Countries, or indirectly and coulourably firſt to ſome other Countries adiacent to his, and from thence to be conueied to his owne. We doe therefore by our Royall authoritie, and as in Princely prouidence we are bound to doe, moſt ſtraightly charge and command, and ſo we will it to be publiſhed and knowen, that no perſon either naturally borne within any of our Realmes or reſiding within the ſame, do from hencefoorth carrie or cauſe to be carried, or bee aſſiſting to any that ſhall carrie, or that ſhall bargaine or contract for carriage of any kinde of ſome or Graine, or of any Ordonance, Braſſe, or Iron, Shot, Powder, or any Cordage, Tackle, or any thing belonging to the ſurniture of any Shipping out of our Realme into Spaine, or into any Dominions of the king of Spaine, or to any adiacent countreyes from the which the ſame may be colourably caried into the king of Spaines Dominions, nor that any perſon ſuffer any of the aforeſaid kindes which he may ſay, to be caried to the ſaid countreys of the ſaid king as long as he ſhall vſe and exerciſe any warre againſt vs or our ſubiects: vpon paine that all and euery perſon ſo offending in any poynt afore mentioned, ſhall be taken, vſed, tryed, iudged, and executed as traitors to vs &amp; our contries. Ind further we will and commaund, that no maner of Corne or graine, nor any ordonance of Braſſe or Iron, be caryed out of any our do<g ref="char:EOLhyphen"/>minions to any other forreine Countries, beſides the king of Spaynes countreys, without our ſpeciall licence, vpon paine that whoſoeuer being owner of the Corne or Ordonance ſhall ſo doe, or ſhall be aſſiſting thereto, and the Owner and Maſter of the veſſels ſhalbe committed to doſe priſon, and there to remaine one whole yeere, and further alſo, vntill they haue made fine, and anſwered the ſame to the quadruple va<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of the Corne and Ordonance caryed. And becauſe it hath pleaſed almightie God, to graunt this yeere to our contrey ſuch plentie of Corne, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it is likely, that diuers of our people neere the Sea coaſts, ſhall be deſirous to haue cauſe to vent ſome parte of that which they ſhall haue of their owne growth, for lacke of ſale within our realme: For remedie thereof, We doe firſt aduiſe, and earneſtly require, the principall per<g ref="char:EOLhyphen"/>ſons of wealth, both in Townes corporate and other places (in ſuch a time as this is, ſo needfull to reſtraine caryage of graine to our ene<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, or out of our Realme, whereby our enemies may be relieued) to buy in the markets of the countries neere the Sea coaſt, ſuch quanti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of graine as the owners cannot forbeare, but ſhall be conſtrayned to ſell for their neceſſitie: And the ſame to keepe in ſtore to ſerue the mar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ets in the latter ende of the yeere, before the comming of new Corne to vſe.</p>
+            <p>And if by ſuch good meanes (which we deſire greatly to be vſed) the neceſſitie of them that ſhall be conſtrained to ſell their graine, cannot <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſatiſfied without ſuch venting out of our Realme, vpon certificate to be made to our Counſell, from thoſe which ſhall haue commiſſion as <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath bene accuſtomed to reſtrayne the carying of Corne out of the Realme, of ſuch neceſſitie to haue the ſame vented out of the Realme, There tall be order and power giuen from our Counſell, to the ſame Commiſſioners, vpon their certificates, that ioyntly with the the warrant of our treaſurer of England, to the officers of the portes, ſuch as be the proper owners of ſuch Corne, and not Marchants, ſhall paſſe by ſea with ſuch quantitie onely as ſhall manifeſtly appeare, may be ſpared to be tranſported in Engliſh ſhippes into the Countreys, with whome we are in <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood amitie, and not into any other, with ſuch bonds and conditions as the enemie may not be relieued thereby. And lyke wiſe order ſhall be <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iuen to the foreſaide Commiſſioners, that where any iuſt cauſe ſhall be to cary and Corne from one port of this our Realme to another, for <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eliefe of our people in partes where there is lacke of Corne, There ſhall be by conſent of the ſaide Commiſſioners, authoritie giuen to our of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cers of our portes, to ſuffer ſuch quantitie to be caryed to the ports of the Countreys where neede ſhall be. And yet with ſuch caution, as if a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y portion ſhall by colour thereof, be caryed out of the Realme, beſides the forfeiture of the bonds that ſhall be taken by our officers, the owners <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Corne, and the Maſters and Owners of the Ships ſhall ſuffer impriſonment for one whole yere, and further vntill fine be made to vs, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the quadruple value of the Corne. And this our order, we command to be duely executed by all maner our officers, miniſters, and ſubiects, there default ſhall or may be found, vpon paine of our indignation, and of ſuch paine as may thereto belong.</p>
+            <closer>
+               <dateline>Giuen at the Caſtle of Baſing, in <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Countie of Southhampton, <date>the xvi, day of September, in the xxxiii, yeere of our reigne. 1591.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London, by the Deputies of Chriſtopher Barker, Printer to the Queenes moſt excellent Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
